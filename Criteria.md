@@ -10,7 +10,8 @@
 
 ## Nice to Have
 
-- The application is configurable by environment variables
+- The application stores the contacts and retain after refreshing the page
+- The application has a scroll bar/pagination to handle more than 10 contacts
 - The application has a development and production environment
 - The application has good naming
 - The application is responsive
