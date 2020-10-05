@@ -25,6 +25,8 @@ The main goal is for the user to add, view and delete contacts.
 - The user shall be able to:
   - Create new contact with name and phone number
   - Add empty validations for both name and phone number
+  - Add a validation to make sure password and confirm password are matching
+  - Clicking on the show password check box should display the password in readable format and vice versa
   - Upon successful the contact should get's added to the existing list
   - Should clear/reset the contact from once it's addedd successfully
   - Each contact on the list should have a delete button
