@@ -18,7 +18,7 @@ export default class RewardsOrderConfirmation extends React.Component {
         </div>
         <div className="formField">
           <label>Password:</label>
-          <input type="text" />
+          <input type="password" />
           <div class="showPasswordBlock">
             <label>
               <input type="checkbox" /> Show Password
