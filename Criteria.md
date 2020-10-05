@@ -5,16 +5,18 @@
 - The application must start
 - The application must be divided into components
 - The file structure must be consistent and easy to follow
-- The Contacts page must cover all [use cases](README.md#use-cases)
+- The Create Account Form must cover all [use cases](README.md#use-cases)
 - The application must include meaningful tests
+- Must be error free
 
 ## Nice to Have
 
-- The application stores the contacts and retain after refreshing the page
-- The application has a scroll bar/pagination to handle more than 10 contacts
+- Email format validation
+- Password Length validation
+- Stronger Passowrd tips to the user
+- The application submits the form via ajax
 - The application has a development and production environment
 - The application has good naming
-- The application is responsive
 - Styles are shipped separately
 
 ## Negative Points
