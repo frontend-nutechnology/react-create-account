@@ -37,10 +37,10 @@ Note:- The interactions should not refresh the page.
 ## Create Account Form
 ![Alt text](./assets/demo.png?raw=true "Title")
 
-## Create Account Form with show passowrd clicked
+## Create Account Form with show password clicked
 ![Alt text](./assets/demo_with_show_password.png?raw=true "Title")
 
-## Create Account Form without show passowrd
+## Create Account Form without show password clicked
 ![Alt text](./assets/demo_without_show_password.png?raw=true "Title")
 
 # Evaluation criteria
