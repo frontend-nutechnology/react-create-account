@@ -2,7 +2,7 @@
 
 Welcome to the NU Technology frontend coding challenge! Please read the following instructions carefully.
 
-**Your goal is to set up an React application which enables the user to view and manage contact listing page.**
+**Your goal is to set up an React application which enables the user to sumbit create account form.**
 
 # Contents
 
@@ -17,20 +17,19 @@ Welcome to the NU Technology frontend coding challenge! Please read the followin
 
 # Business need
 
-The main goal is for the user to add, view and delete contacts.
+The main goal is for the user to submit the create account form.
 
 
 # Use cases
 
 - The user shall be able to:
-  - Create new contact with name and phone number
-  - Add empty validations for both name and phone number
+  - Fill the create account form and upon submitting run through the validation and show the result.
+  - Add empty validations for all the fields
   - Add a validation to make sure password and confirm password are matching
-  - Clicking on the show password check box should display the password in readable format and vice versa
-  - Upon successful the contact should get's added to the existing list
-  - Should clear/reset the contact from once it's addedd successfully
-  - Each contact on the list should have a delete button
-  - Clicking on the delete button should remove the contact from list
+  - Clicking on the show password check box should display the password in readable format and vice versa (see demo images below)
+  - Upon successful display a success message along with the submitted data on top of the form
+  - Display the validation errors at the top
+  - Successful submit should clear the form
 
 Note:- The interactions should not refresh the page.
 
