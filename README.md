@@ -74,7 +74,7 @@ The full criteria for evaluating the coding challenge can be found [here](./Crit
 
 # Time limit
 
-There is no hard time limit for this coding challenge. However, we believe that 30mins - 1 hour is sufficient for the must-have parts of the application. While we appreciate all the effort put into the challenge, we also do not want to take up too much of your time. Our advice is to focus on making sure [that the application works properly and has some tests](Criteria.md#must-have) before moving on to secondary objectives.
+There is no hard time limit for this coding challenge. However, we believe that 1-2hours is sufficient for the must-have parts of the application. While we appreciate all the effort put into the challenge, we also do not want to take up too much of your time. Our advice is to focus on making sure [that the application works properly and has some tests](Criteria.md#must-have) before moving on to secondary objectives.
 
 Good luck,
 The NU Technology Team
