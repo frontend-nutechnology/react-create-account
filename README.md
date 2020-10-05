@@ -33,7 +33,15 @@ The main goal is for the user to add, view and delete contacts.
 Note:- The interactions should not refresh the page.
 
 # Demo Page
+
+## Create Account Form
 ![Alt text](./assets/demo.png?raw=true "Title")
+
+## Create Account Form with show passowrd clicked
+![Alt text](./assets/demo_with_show_password.png?raw=true "Title")
+
+## Create Account Form without show passowrd
+![Alt text](./assets/demo_without_show_password.png?raw=true "Title")
 
 # Evaluation criteria
 
