@@ -6,7 +6,7 @@ export default class RewardsOrderConfirmation extends React.Component {
     return (
       <form className="createAccForm">
         {/*<div>Display validation Errors here</div>*/}
-        {/*<div>Display Success Messafe with form data</div>*/}
+        {/*<div>Display Success Message with form data</div>*/}
         <h2>Create Account</h2>
         <div className="formField">
           <label>Name:</label>
