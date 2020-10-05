@@ -1,28 +1,34 @@
 import React from "react";
-import s from "./CreateAccount.scss";
+import "./CreateAccount.css";
 
 export default class RewardsOrderConfirmation extends React.Component {
   render() {
     return (
-      <form className={s.createAccForm}>
+      <form className="createAccForm">
+        {/*<div>Display validation Errors here</div>*/}
         <h2>Create Account</h2>
-        <div className={s.formField}>
-          <label>Name</label>
+        <div className="formField">
+          <label>Name:</label>
           <input type="text" />
         </div>
-        <div className={s.formField}>
-          <label>E-mail (username)</label>
+        <div className="formField">
+          <label>E-mail (username):</label>
           <input type="text" />
         </div>
-        <div className={s.formField}>
-          <label>Password</label>
+        <div className="formField">
+          <label>Password:</label>
+          <input type="text" />
+          <div class="showPasswordBlock">
+            <label>
+              <input type="checkbox" /> Show Password
+            </label>
+          </div>
+        </div>
+        <div className="formField">
+          <label>Confirm Password:</label>
           <input type="text" />
         </div>
-        <div className={s.formField}>
-          <label>Confirm Password</label>
-          <input type="text" />
-        </div>
-        <div className={s.formField}>
+        <div className="formField submitbtn">
           <input type="button" value="Create Account" />
         </div>
       </form>
